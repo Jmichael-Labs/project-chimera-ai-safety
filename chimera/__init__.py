@@ -14,7 +14,7 @@ Key Components:
 
 __version__ = "1.0.0"
 __author__ = "Michael David Jaramillo"
-__email__ = "michael@jmichael-labs.com"
+__email__ = "jmichaeloficial@gmail.com"
 __description__ = "Real-time AI Safety Monitoring for Meta Superintelligence Labs"
 
 from .core.detector import StreamingAnomalyDetector

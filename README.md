@@ -146,8 +146,8 @@ print(f"🔍 Monitor your AI safety at: {dashboard_url}")
 ## 📞 Contact
 
 **Michael David Jaramillo**
-- 🔗 LinkedIn: [Connect for Meta Opportunities](https://linkedin.com/in/michaeldjaramillo)
-- 📧 Email: michael@jmichael-labs.com
+- 🔗 LinkedIn: [Connect for Meta Opportunities](https://www.linkedin.com/in/michael-jaramillo-b61815278?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- 📧 Email: jmichaeloficial@gmail.com
 - 🐙 GitHub: [@Jmichael-Labs](https://github.com/Jmichael-Labs)
 
 > *"Building the safest AI systems for humanity's next chapter"*
@@ -156,7 +156,7 @@ print(f"🔍 Monitor your AI safety at: {dashboard_url}")
 
 **Ready to revolutionize AI safety at Meta Superintelligence Labs?**
 
-[![Deploy to Meta](https://img.shields.io/badge/Deploy%20to-Meta%20Labs-blue.svg?style=for-the-badge)](mailto:michael@jmichael-labs.com?subject=Project%20Chimera%20-%20Meta%20Integration)
+[![Deploy to Meta](https://img.shields.io/badge/Deploy%20to-Meta%20Labs-blue.svg?style=for-the-badge)](mailto:jmichaeloficial@gmail.com?subject=Project%20Chimera%20-%20Meta%20Integration)
 
 ---
 
